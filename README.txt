@@ -1,0 +1,1 @@
+这是jobsofferings的自己的博客代码
